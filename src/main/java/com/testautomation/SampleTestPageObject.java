@@ -5,22 +5,20 @@ import java.util.List;
 
 public class SampleTestPageObject {
 
-    List<String> allList = new ArrayList<String>();
+
 
     public List<String> searchForAllFromTheTable() {
+
+        List<String> allList = new ArrayList<String>();
+
         allList.add("a");
         allList.add("b");
         allList.add("c");
         allList.add("e");
         allList.add("f");
 
-         return allList;
+        return allList;
 
-//        if (allList.contains(searchValue)) {
-//            return true;
-//        } else {
-//            return false;
-//        }
     }
 
 }
