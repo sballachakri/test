@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9699c883-a24b-4521-91e7-a0db550dc1b4" name="Default Changelist" comment="" />
+    <list default="true" id="9699c883-a24b-4521-91e7-a0db550dc1b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testautomation/SampleTestPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testautomation/SampleTestPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testautomation/SampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testautomation/SampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test" beforeDir="false" afterPath="$PROJECT_DIR$/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/test/java/com/testautomation/SampleTest.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,20 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
-              <caret line="65" column="2" selection-start-line="65" selection-start-column="2" selection-end-line="65" selection-end-column="2" />
+            <state relative-caret-position="327">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/testautomation/SampleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="275">
+              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,11 +43,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/testautomation/SampleTestPageObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            <state relative-caret-position="64">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#219#227#0" expanded="true" />
+                <element signature="e#494#502#0" expanded="true" />
+                <element signature="e#602#610#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,9 +69,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/com/testautomation/AppTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/testautomation/SampleTestPageObject.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/testautomation/SampleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/testautomation/SampleTestPageObject.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -75,7 +82,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -88,12 +95,18 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="testautomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="testautomation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testautomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testautomation" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testautomation" type="b2602c69:ProjectViewProjectNode" />
@@ -147,15 +160,18 @@
               <item name="testautomation" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="testautomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564184895097" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564228087734" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -170,7 +186,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.SampleTest.sampleTest">
+    <configuration name="SampleTestPageObject.searchForExcludeFirst" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testautomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.testautomation.SampleTestPageObject" />
+      <option name="METHOD_NAME" value="searchForExcludeFirst" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SampleTest.sampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testautomation" />
       <extension name="coverage">
@@ -190,6 +222,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.SampleTest.sampleTest" />
+        <item itemvalue="JUnit.SampleTestPageObject.searchForExcludeFirst" />
       </list>
     </recent_temporary>
   </component>
@@ -207,43 +240,43 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SampleTest_sampleTest - 2019.07.26 at 20h 21m 07s.xml">
+    <history-entry file="SampleTestPageObject_searchForExcludeFirst - 2019.07.27 at 12h 27m 20s.xml">
+      <configuration name="SampleTestPageObject.searchForExcludeFirst" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SampleTestPageObject_searchForExcludeFirst - 2019.07.27 at 12h 28m 32s.xml">
+      <configuration name="SampleTestPageObject.searchForExcludeFirst" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SampleTestPageObject_searchForExcludeFirst - 2019.07.27 at 12h 29m 06s.xml">
+      <configuration name="SampleTestPageObject.searchForExcludeFirst" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SampleTestPageObject_searchForExcludeFirst - 2019.07.27 at 12h 35m 07s.xml">
+      <configuration name="SampleTestPageObject.searchForExcludeFirst" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SampleTestPageObject_searchForExcludeFirst - 2019.07.27 at 12h 35m 39s.xml">
+      <configuration name="SampleTestPageObject.searchForExcludeFirst" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SampleTestPageObject_searchForExcludeFirst - 2019.07.27 at 12h 36m 24s.xml">
+      <configuration name="SampleTestPageObject.searchForExcludeFirst" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SampleTestPageObject_searchForExcludeFirst - 2019.07.27 at 12h 36m 37s.xml">
+      <configuration name="SampleTestPageObject.searchForExcludeFirst" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SampleTestPageObject_searchForExcludeFirst - 2019.07.27 at 12h 36m 49s.xml">
+      <configuration name="SampleTestPageObject.searchForExcludeFirst" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SampleTest_sampleTest - 2019.07.27 at 12h 37m 21s.xml">
       <configuration name="SampleTest.sampleTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SampleTest_sampleTest - 2019.07.26 at 20h 23m 25s.xml">
-      <configuration name="SampleTest.sampleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SampleTest_sampleTest - 2019.07.26 at 20h 29m 22s.xml">
-      <configuration name="SampleTest.sampleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SampleTest_sampleTest - 2019.07.27 at 00h 32m 03s.xml">
-      <configuration name="SampleTest.sampleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SampleTest_sampleTest - 2019.07.27 at 00h 33m 27s.xml">
-      <configuration name="SampleTest.sampleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SampleTest_sampleTest - 2019.07.27 at 00h 34m 53s.xml">
-      <configuration name="SampleTest.sampleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SampleTest_sampleTest - 2019.07.27 at 00h 36m 05s.xml">
-      <configuration name="SampleTest.sampleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SampleTest_sampleTest - 2019.07.27 at 00h 36m 29s.xml">
-      <configuration name="SampleTest.sampleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SampleTest_sampleTest - 2019.07.27 at 00h 36m 43s.xml">
-      <configuration name="SampleTest.sampleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SampleTest_sampleTest - 2019.07.27 at 00h 36m 54s.xml">
+    <history-entry file="SampleTest_sampleTest - 2019.07.27 at 12h 38m 07s.xml">
       <configuration name="SampleTest.sampleTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.19515885" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.502439" side_tool="true" visible="true" weight="0.19515885" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -251,15 +284,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39443535" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28968903" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23895253" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2700491" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.090016365" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.2569558" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -275,21 +308,9 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/testautomation/SampleTest.java</url>
-          <line>26</line>
+          <line>33</line>
           <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/testautomation/SampleTest.java</url>
-          <line>37</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/testautomation/SampleTest.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -303,31 +324,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/ClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="2" selection-start-line="65" selection-start-column="2" selection-end-line="65" selection-end-column="2" />
+        <state relative-caret-position="17">
+          <caret line="487" selection-start-line="487" selection-end-line="487" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/testautomation/SampleTestPageObject.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        <state relative-caret-position="135">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#219#227#0" expanded="true" />
+            <element signature="e#11597#11598#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/testautomation/SampleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="275">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testautomation/SampleTestPageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="e#494#502#0" expanded="true" />
+            <element signature="e#602#610#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>

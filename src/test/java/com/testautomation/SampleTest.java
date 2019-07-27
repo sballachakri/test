@@ -26,18 +26,22 @@ public class SampleTest {
 
         //////
         assertingThatCorrectRowIsRemoved();
+        asserting();
     }
     // This method is for assertion
     private void assertingThatCorrectRowIsRemoved() {
 
-        System.out.println(row1);
-        System.out.println(row2);
-        System.out.println(row3);
-        System.out.println(row4);
-        System.out.println(row5);
         assertThat("wrong description row is deleted, please investigate",
-        sampleTestPageObject.searchForAllFromTheTable(), containsInAnyOrder(row2,row1,row3,row4,row5));
+        sampleTestPageObject.searchForAllFromTheTable(),
+                contains(row1,row2,row3,row4,row5));
 
+    }
+
+    private void asserting()
+    {
+        assertThat("something",
+                sampleTestPageObject.searchForExcludeFirst(),
+                contains(row2,row3,row4,row5));
     }
 
 }
