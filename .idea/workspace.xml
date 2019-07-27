@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9699c883-a24b-4521-91e7-a0db550dc1b4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/testautomation/SampleTestPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testautomation/SampleTestPageObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/testautomation/SampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testautomation/SampleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/SampleTestPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/SampleTestPageObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/SampleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/SampleTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="9699c883-a24b-4521-91e7-a0db550dc1b4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,7 +75,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -162,7 +155,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564184413100" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564184895097" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -246,7 +239,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
