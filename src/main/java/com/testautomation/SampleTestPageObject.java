@@ -15,6 +15,9 @@ public class SampleTestPageObject {
         allList.add("c");
         allList.add("e");
         allList.add("f");
+        System.out.println(allList);
+
+
         return allList;
     }
     public List<String> searchForExcludeFirst() {

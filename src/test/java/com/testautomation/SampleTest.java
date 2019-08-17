@@ -44,4 +44,10 @@ public class SampleTest {
                 contains(row2,row3,row4,row5));
     }
 
+    @Test
+    public void hello()
+    {
+        System.out.println("Hello world Test 2");
+    }
+
 }
